@@ -1,0 +1,7 @@
+BOT_TOKEN = "8587849255:AAHYtuno3ewMs27H0-BaT3e_c_An3j-xDKc"
+ADMIN_ID = 8382525189
+PAY_URL = "https://pay.cloudtips.ru/p/9534f31b"
+ORDER_LIFETIME = 1800
+
+SUPPORT_USERNAME = "nekigy"
+CHANNEL_USERNAME = "vexershopUS"
